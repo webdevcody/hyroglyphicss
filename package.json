@@ -1,0 +1,10 @@
+{
+  "name": "hyroglyphicss",
+  "version": "1.0.0",
+  "description": "some package you should never use",
+  "main": "index.css",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
