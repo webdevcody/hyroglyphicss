@@ -1,5 +1,14 @@
 `We've worked hard on this project over the past 45 minutes, and it's safe to say we're version 1.x ready (let's ship to prod baby!)`
 
+## Credits
+
+Original idea was from Coding in Flow
+
+- https://www.youtube.com/c/codinginflow
+- https://twitter.com/codinginflow
+
+![snippet of X post](./docs/flow.png)
+
 # hyroglyphicss
 
 Style your html using emojis
