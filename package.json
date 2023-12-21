@@ -1,9 +1,10 @@
 {
   "name": "hyroglyphicss",
   "version": "1.0.0",
-  "description": "some package you should never use",
-  "main": "index.css",
-  "scripts": {},
+  "description": "¯\\_(ツ)_//¯",
+  "scripts": {
+    "correct-mistake": "npm unpublish hyroglyphicss@1.0.0 --force"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT"
