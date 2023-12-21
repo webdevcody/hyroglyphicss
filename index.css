@@ -125,3 +125,79 @@
 .◻️ {
   @apply text-gray-50;
 }
+/*added by @DivinPrince*/
+.🌐 {
+  @apply container mx-auto;
+}
+
+.🔄 {
+  @apply animate-spin;
+}
+
+.🚀 {
+  @apply transition-transform transform hover:scale-110;
+}
+
+.🌈 {
+  @apply bg-gradient-to-r from-purple-500 to-pink-500;
+}
+
+.🌟 {
+  @apply text-yellow-500;
+}
+
+.🎨 {
+  @apply text-indigo-500;
+}
+
+.🌺 {
+  @apply p-6 md:p-8 lg:p-10 xl:p-12;
+}
+
+.🧊 {
+  @apply shadow-lg;
+}
+
+.🔒 {
+  @apply font-bold text-red-500;
+}
+
+.👽 {
+  @apply opacity-75;
+}
+
+.🚦 {
+  @apply flex space-x-4;
+}
+
+.🚪 {
+  @apply transition-opacity hover:opacity-80;
+}
+
+.🧑‍💻 {
+  @apply hover:underline;
+}
+
+.🔥 {
+  @apply text-red-600;
+}
+
+.🚧 {
+  @apply border-t-4 border-yellow-500;
+}
+
+.🍀 {
+  @apply text-green-500;
+}
+
+.📐 {
+  @apply transform rotate-45;
+}
+
+.🌀 {
+  @apply animate-pulse;
+}
+
+.📈 {
+  @apply scale-110 transform transition-transform;
+}
